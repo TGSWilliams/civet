@@ -27,10 +27,10 @@ def get_defaults():
 
                     # input seq options 
                     KEY_NUM_SEQS:0,
-                    KEY_MAX_AMBIGUITY:0.5,
-                    KEY_MIN_LENGTH:20000,
-                    KEY_TRIM_START:265,   # where to pad to using datafunk
-                    KEY_TRIM_END:29674,
+                    KEY_MAX_AMBIGUITY:0.8,
+                    KEY_MIN_LENGTH:13000,
+                    KEY_TRIM_START:1,   # where to pad to using datafunk
+                    KEY_TRIM_END:13133,
 
                     # background variables
                     
